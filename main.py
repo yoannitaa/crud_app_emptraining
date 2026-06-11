@@ -14,7 +14,7 @@ from mysql.connector import Error
 DB_CONFIG = {
     "host": "localhost",
     "user": "root",          # user MYSQL
-    "password": '',          # pass MYSQL
+    "password": '8888',          # pass MYSQL
     "database": "employee_training"
 }
 
