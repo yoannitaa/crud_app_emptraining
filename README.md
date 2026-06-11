@@ -48,7 +48,7 @@ This application is designed for Employees, HR Departments, and Employee Manager
 
 2. **Installation:**
     ```bash
-   git clone https://github.com/yoannitaa/employee_training_app.git
+   git clone https://github.com/yoannitaa/crud_app_emptraining.git
    cd employee_training_app
     ```
    ```bash
